@@ -4,5 +4,5 @@ numpy==1.23.5
 opencv-python-headless
 pandas==1.5.3
 Pillow==9.4.0
+openpyxl==3.1.1
 datetime
-
